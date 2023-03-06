@@ -4,7 +4,7 @@ This is a simple drag and drop file upload plugin. You need to add a CSS and a J
 ## Setup Package
 1. Download the repository
 ```shell
-git clone https://github.com/muhaiminShihab/ms-drag-and-drop.git
+git clone https://github.com/muhaiminShihab/drag-and-drop.git
 ```
 
 2. Copy the CSS file `/app.css` and paste it on your project
@@ -14,7 +14,7 @@ git clone https://github.com/muhaiminShihab/ms-drag-and-drop.git
 4. Initial the drag and drop package
 ```shell
 <div id="drag_and_drop">
-    <input type="file" name="avatar" id="avatar">
+    <input type="file" name="" id="">
 </div>
 
 <script>
